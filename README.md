@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tatiana_peralta@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1TlkX9k9pzqHwksKn_VzyTtObHyOfuIO_?usp=share_link](https://drive.google.com/drive/folders/1TlkX9k9pzqHwksKn_VzyTtObHyOfuIO_?usp=share_link)
+- 📄 Know about my experiences rb.gy/n2tow0
 
 - ⚡ Fun fact **I'm passionate about doing puzzles. The more pieces the better!**
 
