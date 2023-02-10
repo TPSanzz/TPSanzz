@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tatiana</h1>
-<h3 align="center">Detail-orientated data analyst</h3>
+<h3 align="center">Data Analyst</h3>
 
 - 🌱 I’m currently learning **Power BI, Tableau and Python**
 
@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1TlkX9k9pzqHwksKn_VzyTtObHyOfuIO_?usp=share_link](https://drive.google.com/drive/folders/1TlkX9k9pzqHwksKn_VzyTtObHyOfuIO_?usp=share_link)
 
-- ⚡ Fun fact **I'm passionate about doing puzzles. The more pieces the better**
+- ⚡ Fun fact **I'm passionate about doing puzzles. The more pieces the better!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
