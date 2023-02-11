@@ -1,8 +1,8 @@
 
 ![image](https://user-images.githubusercontent.com/125094373/218227878-acc06d8f-326b-421c-ac82-d14caa13c9d7.png)
 
-<h1 align="center">Inspired by challenges</h1>
-<h3 align="center">Let's meet</h3>
+<h1 align="center">Inspired by challenges :sparkles:</h1>
+<h3 align="center">Let's meet!</h3>
 
 - 🌱 I’m currently learning **Power BI, Tableau and Python**
 
