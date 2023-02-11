@@ -1,5 +1,4 @@
-
-![image](https://user-images.githubusercontent.com/125094373/218227878-acc06d8f-326b-421c-ac82-d14caa13c9d7.png)
+![image](https://user-images.githubusercontent.com/125094373/218228103-4d0a0e88-2b10-494b-aad4-712bab83574c.png)
 
 <h1 align="center">Inspired by challenges :sparkles:</h1>
 <h3 align="center">Let's meet!</h3>
