@@ -1,7 +1,7 @@
-![image](https://user-images.githubusercontent.com/125094373/218224194-cef7b4c7-1dd0-45e1-bb7d-c13bb3460808.png)
 
-<h1 align="center">Hi 👋, I'm Tatiana Peralta</h1>
-<h3 align="center">Data Analyst</h3>
+
+<h1 align="center">Inspired by challenges</h1>
+<h3 align="center">Let's meet</h3>
 
 - 🌱 I’m currently learning **Power BI, Tableau and Python**
 
