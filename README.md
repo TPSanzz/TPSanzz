@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tatiana</h1>
-<h3 align="center">Data Analyst</h3>
+![image](https://user-images.githubusercontent.com/125094373/218224194-cef7b4c7-1dd0-45e1-bb7d-c13bb3460808.png)
 
 - 🌱 I’m currently learning **Power BI, Tableau and Python**
 
